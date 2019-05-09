@@ -18,16 +18,16 @@ void basiccalc() {
 
 float calculatethingy(float a,char b,float c) {
   else if(b=='+') {
-    return a+c
+    return a+c;
   }
   else if(b=='-') {
-    return a-c
+    return a-c;
   }
   else if(b=='*') {
-    return a*c
+    return a*c;
   }
   else if(b=='/') {
-    return a/c
+    return a/c;
   }
   else {
     cout << "no";
