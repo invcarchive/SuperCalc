@@ -3,7 +3,7 @@
 #include <windows.h>
 #include <iomanip>
 using namespace std;
-int main() {
+int grade() {
     setprecision(2);
     int questions;
     int incorrectcount;
