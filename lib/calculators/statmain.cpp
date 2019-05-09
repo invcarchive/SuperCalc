@@ -1,4 +1,6 @@
 #include <windows.h>
+#include <iostream>
+#include "..\improvedvars\statlist.cpp"
 using namespace std;
 void statisticalcalc() {
     cout << "enter the init value ";
